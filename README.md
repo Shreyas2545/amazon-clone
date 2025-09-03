@@ -1,5 +1,6 @@
 # Amazon Clone 🛒
 
+A simple **Amazon homepage clone** built with **HTML & CSS** to practice frontend development and UI design.
 ---
 
 ## 📸 Screenshot
@@ -20,3 +21,4 @@
 - **HTML5**
 - **CSS3**
 - **Font Awesome** (for icons)
+
