@@ -4,7 +4,7 @@ A simple **Amazon homepage clone** built with **HTML & CSS** to practice fronten
 ---
 
 ## 📸 Screenshot
-![Amazon Clone Screenshot](screenshots/homepage.png)
+![Amazon Clone Screenshot](https://github.com/Shreyas2545/amazon-clone/blob/6d9a2a6b6a7ee205d9019f14f3a384bc83a18d72/AmazonClone/amazon-clone-screenshot.png)
 
 ---
 
@@ -21,4 +21,5 @@ A simple **Amazon homepage clone** built with **HTML & CSS** to practice fronten
 - **HTML5**
 - **CSS3**
 - **Font Awesome** (for icons)
+
 
